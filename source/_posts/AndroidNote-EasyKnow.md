@@ -1,7 +1,7 @@
 ---
 title: AndroidNote EasyKnow
 date: 2017-04-18 01:31:11
-tags:
+tags: [AndroidNote, EasyKnow]
 ---
 # CardView
 
