@@ -1,5 +1,5 @@
 ---
-title: AndroidNote OkHttp
+title: OkHttp
 date: 2017-04-20 01:40:34
 tags: [AndroidNote, OkHttp]
 ---

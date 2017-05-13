@@ -1,5 +1,5 @@
 ---
-title: AndroidNote EasyKnow
+title: EasyKnow
 date: 2017-04-18 01:31:11
 tags: [AndroidNote, EasyKnow]
 ---
